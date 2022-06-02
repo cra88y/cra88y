@@ -1,7 +1,7 @@
 ---------------
 <p align="center"> 👋 Hi! I'm Cameron.</p>
 
-I am a software engineer and musician. In my free time I enjoy programming, gaming, and digital music production. As a developer I love to build out unique solutions to complex problems.
+I am a software engineer and musician. In my free time I enjoy programming, gaming, and digital music production. As a developer I love to build out elegant and efficient solutions to complex problems.
 <div align="center"><a href="https://www.linkedin.com/in/camer0n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div>
   
 ---------------

@@ -37,7 +37,7 @@ I am a software engineer and musician. In my free time I enjoy programming, gami
 </div>
 </br>
 <div align="center"> 
-<div stlye="display:flex;justify-content: center;"><img src="https://github-readme-stats.vercel.app/api?username=cra88y&count_private=true&show_icons=true&hide=stars&theme=dark" width="48%" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cra88y&layout=compact&theme=dark" width="35%">
+<div stlye="display:flex;justify-content: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cra88y&layout=compact&theme=dark" width="35%">
 </div></div>
 
 ---------------

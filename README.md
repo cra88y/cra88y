@@ -5,10 +5,8 @@ I am a software engineer and musician. In my free time I enjoy programming, gami
 <div align="center"><a href="https://www.linkedin.com/in/camer0n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div>
   
 ---------------
-
-- 🔧 I'm currently working on my clone of Discord, [Unicord](https://github.com/cra88y/unicord) as well as grinding problems on LeetCode 
-- 🎵 I post my music on [soundcloud.com/cra88y](https://soundcloud.com/cra88y)
-- ✨ My personal site with some of my projects and my resume can be found, [here](https://cra88y.github.io)
+- 🎵 I make electronic music in Ableton >> [soundcloud.com/cra88y](https://soundcloud.com/cra88y)
+- ✨ My personal site with some of my projects and my resume >> [here](https://cra88y.github.io)
 ---------------
 
 <div align="center">  

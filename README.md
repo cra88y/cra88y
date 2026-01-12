@@ -1,39 +1,18 @@
 ---------------
-Software engineer and musician. In my free time I enjoy programming, gaming, and digital music production. As a developer I love to build out elegant and efficient solutions to complex problems.
+Software Engineer and musician.
+I love to build out elegant and tailored solutions to complex problems to serve real people (or at least, me).
+
+
+
+**Current hobby dev interest**: Web Search. Currently through SearXNG extensions to help us better explore the ever expanding yet consolidating web.
+ - [4get-hijacked](https://github.com/cra88y/4get-hijacked) Flexible, decoupled, and fast sidecar/wrapper container to run any 4get native search engines (30+!) in parallel, to fetch results for your Searxng instance. Built to bridge the efforts of 4get's dedicated alternative scraper efforts to SearXNG while providing a translation layer to support as many features on both sides as is possible.
+ - ai-answers-searxng Non-blocking/async SearXNG plugin that generates an AI response to user query while utilizing the results for grounding. Supports variety of models with both OpenRouter and Gemini API support.
+ - [simply-nord](https://github.com/cra88y/simply-nord) An extensive minimalist nord inspired theme + ui tweaks for SearXNG.
+
+--------------
+- 🎵 If i'm not coding i'm probably in Ableton (10+ years of EDM production!) Hear 7 years of songs/clips here >> [soundcloud.com/cra88y](https://soundcloud.com/cra88y)
+- ✨ Outdated personal site (too distracted with other projects!) with some of my full stack web projects and even a resume >> [here](https://cra88y.github.io)
+---------------
+
+
 <div align="center"><a href="https://www.linkedin.com/in/camer0n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div>
-  
----------------
-- 🎵 I make electronic music in Ableton >> [soundcloud.com/cra88y](https://soundcloud.com/cra88y)
-- ✨ My personal site with some of my projects and my resume >> [here](https://cra88y.github.io)
----------------
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />    
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-</div>
-</br>
-<div align="center"> 
-<div stlye="display:flex;justify-content: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cra88y&layout=compact&theme=dark" width="35%">
-</div></div>
-
----------------

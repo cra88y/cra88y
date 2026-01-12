@@ -12,7 +12,8 @@ to serve real people (or at the very least, me).
   - Game client is closed source but my [production nakama server](https://github.com/cra88y/block-server) is open source
   - Stay tuned for the public TestFlight in the next couple months :)
 --- 
-**Current hobby dev interest**: Web Search. Currently through SearXNG extensions to help us better explore the ever expanding yet consolidating web.
+### Current hobby dev interest:  
+**Web Search**. Currently through SearXNG extensions to help us better explore the ever expanding yet consolidating web.
  - [4get-hijacked](https://github.com/cra88y/4get-hijacked)
    - Flexible, decoupled, and fast sidecar/wrapper container to run any 4get native search engines (30+!) in parallel, to fetch results for your Searxng instance.
    - Built to bridge the efforts of 4get's dedicated alternative scraper efforts to SearXNG while providing a translation layer to support as many features on both sides as is possible.

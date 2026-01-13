@@ -31,5 +31,3 @@ If i'm not coding i'm:
 ---------------
 
 <div align="center"><a href="https://www.linkedin.com/in/camer0n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<img align padding="auto" src="https://kasroudra-stats-card.onrender.com/lang?user=cra88y&layout=compact&type=piechart&theme=nord&max_lang=12&sort=desc&width=400&height=600&hcolor=transparent&scale=0.8"/></div>
